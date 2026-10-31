@@ -1,0 +1,8 @@
+{
+  "service": "ms-moc-orch",
+  "version": "1.0.0-alpha",
+  "revision": "5ca69ec091c72d403c863f0fc3967e5357bd2c16",
+  "publishedAt": "2026-10-31T15:21:04Z",
+  "tag": "ms-moc-orch/v1.0.0-alpha",
+  "archive": "https://github.com/jmarcosltc/gesin-moc-public-releases/releases/download/ms-moc-orch%2Fv1.0.0-alpha/ms-moc-orch-1.0.0-alpha.tar"
+}

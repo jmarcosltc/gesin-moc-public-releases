@@ -1,0 +1,34 @@
+{
+  "services": {
+    "fe-moc-app": {
+      "version": "1.0.0-alpha",
+      "tag": "fe-moc-app/v1.0.0-alpha",
+      "archive": "https://github.com/jmarcosltc/gesin-moc-public-releases/releases/download/fe-moc-app%2Fv1.0.0-alpha/fe-moc-app-1.0.0-alpha.zip"
+    },
+    "fe-moc-web": {
+      "version": "1.0.0-alpha",
+      "tag": "fe-moc-web/v1.0.0-alpha",
+      "archive": "https://github.com/jmarcosltc/gesin-moc-public-releases/releases/download/fe-moc-web%2Fv1.0.0-alpha/fe-moc-web-1.0.0-alpha.tar"
+    },
+    "ms-moc-bff": {
+      "version": "1.0.0-alpha",
+      "tag": "ms-moc-bff/v1.0.0-alpha",
+      "archive": "https://github.com/jmarcosltc/gesin-moc-public-releases/releases/download/ms-moc-bff%2Fv1.0.0-alpha/ms-moc-bff-1.0.0-alpha.tar"
+    },
+    "ms-moc-orch": {
+      "version": "1.0.0-alpha",
+      "tag": "ms-moc-orch/v1.0.0-alpha",
+      "archive": "https://github.com/jmarcosltc/gesin-moc-public-releases/releases/download/ms-moc-orch%2Fv1.0.0-alpha/ms-moc-orch-1.0.0-alpha.tar"
+    },
+    "ms-moc-atom": {
+      "version": "1.0.0-alpha",
+      "tag": "ms-moc-atom/v1.0.0-alpha",
+      "archive": "https://github.com/jmarcosltc/gesin-moc-public-releases/releases/download/ms-moc-atom%2Fv1.0.0-alpha/ms-moc-atom-1.0.0-alpha.tar"
+    },
+    "ms-moc-dispatcher": {
+      "version": "1.0.0-alpha",
+      "tag": "ms-moc-dispatcher/v1.0.0-alpha",
+      "archive": "https://github.com/jmarcosltc/gesin-moc-public-releases/releases/download/ms-moc-dispatcher%2Fv1.0.0-alpha/ms-moc-dispatcher-1.0.0-alpha.tar"
+    }
+  }
+}

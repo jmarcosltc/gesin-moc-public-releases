@@ -1,0 +1,8 @@
+{
+  "service": "fe-moc-web",
+  "version": "1.0.0-alpha",
+  "revision": "5ca69ec091c72d403c863f0fc3967e5357bd2c16",
+  "publishedAt": "2026-10-31T15:21:04Z",
+  "tag": "fe-moc-web/v1.0.0-alpha",
+  "archive": "https://github.com/jmarcosltc/gesin-moc-public-releases/releases/download/fe-moc-web%2Fv1.0.0-alpha/fe-moc-web-1.0.0-alpha.tar"
+}
